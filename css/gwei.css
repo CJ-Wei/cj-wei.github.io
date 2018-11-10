@@ -1,0 +1,85 @@
+.ui-icon-myicon:after{
+	background-image: url(../images/1528080281.ico);
+}
+.css1{
+	background-color: #f54;
+	color: #000bff;
+}
+
+.goldheader{
+	background-color: #FFFF33;
+	color: #00008B;
+}
+
+#goldheader{
+	background-color: #FFFF33;
+	color: #00008B;
+}
+
+
+.limegreen{
+	background-color: #32CD32;
+}
+
+#dimgray{
+	background-color: #444444;
+}
+
+.dimgray{
+	background-color: #444444;
+}
+
+.lightgray{
+	background-color: #D3D3D3;
+}
+
+
+/*上下0,左右auto使圖片置中,width用合適大小*/
+.logo{
+	width: 200px;		
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 1px 1px 60px 1px #FFFF33;
+	border-radius: 50px;
+}
+.h_logo{
+	width: 200px;		
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 1px 1px 1px 1px #FFFF33;
+	border-radius: 50%;
+}
+.map{
+	width: 500px;
+	height: 750px;
+	margin: 0 auto; 
+	box-shadow: 1px 1px 60px 1px navy;
+	border-radius: 5px;
+}
+
+
+.p_logo{
+	border-radius: 50px;
+}
+
+
+#phonename{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration:underline;
+	color: red;
+}
+
+.text{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration:underline;
+	color: red;
+}
+
